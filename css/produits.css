@@ -79,7 +79,7 @@ body {
 .products-hero-section {
   position: relative;
   min-height: 600px;
-  background-image: url('../public/images/products-hero-background.png');
+  background-image: url('/images/products-hero-background.png');
   background-size: cover;
   background-position: center;
   display: flex;

@@ -78,7 +78,7 @@ body {
 .hero-section {
   position: relative;
   min-height: 600px;
-  background-image: url('../public/images/hero-background.jpg');
+  background-image: url('/images/hero-background.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

@@ -28,7 +28,7 @@
 .qui-sommes-nous-section {
   position: relative;
   min-height: 950px;
-  background-image: url('../public/images/about-hero-background.png');
+  background-image: url('/images/about-hero-background.png');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -131,7 +131,7 @@
 .nos-valeurs-section {
   position: relative;
   background-color: rgba(0, 0, 0, 0.61);
-  background-image: url('../public/images/about-mission-image.jpg');
+  background-image: url('/images/about-mission-image.jpg');
   background-size: cover;
   background-position: center;
   background-blend-mode: darken;

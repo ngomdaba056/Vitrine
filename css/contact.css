@@ -31,7 +31,7 @@
 .contact-image-section {
   position: relative;
   min-height: 500px;
-  background-image: url('../public/images/contact-hero-bg.jpg');
+  background-image: url('/images/contact-hero-bg.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
